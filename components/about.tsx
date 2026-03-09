@@ -38,7 +38,7 @@ export function About() {
       <div className="grid md:grid-cols-2 gap-12">
         <motion.div variants={itemVariants} className="space-y-6">
           <p className="text-lg text-muted-foreground leading-relaxed">
-            I'm a <span className="font-semibold text-foreground">frontend-focused developer</span> with a passion for building responsive, user-friendly web interfaces. My journey in web development has been driven by curiosity, continuous learning, and a commitment to writing clean, efficient code.
+            I'm a <span className="font-semibold text-foreground">DevOps Engineer/Software developer</span> with a passion for building responsive, user-friendly web interfaces. My journey in web development has been driven by curiosity, continuous learning, and a commitment to writing clean, efficient code.
           </p>
 
           <p className="text-lg text-muted-foreground leading-relaxed">
