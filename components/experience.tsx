@@ -5,7 +5,7 @@ import { Briefcase, BookOpen } from 'lucide-react'
 
 const experiences = [
   {
-    title: 'Software Engineer',
+    title: 'Software Engineer Intern',
     company: 'Amazon Development Center India Pvt Ltd',
     period: 'Oct 2025 - Present',
     icon: Briefcase,
@@ -19,19 +19,7 @@ const experiences = [
       'Worked with REST APIs to fetch, display, and update dynamic data',
     ],
   },
-  {
-    title: 'Software Engineer Intern',
-    company: 'voltas Limited -  A TATA Enterprises)',
-    period: 'Apr 2025 - Aug 2025',
-    icon: BookOpen,
-    type: 'work',
-    description: [
-      'Researched and wrote SEO-optimized articles, blogs, and web content',
-      'Adapted tone and style based on brand voice and target audience',
-      'Conducted keyword research and implemented on-page SEO best practices',
-      'Used tools like Google Docs, Grammarly, and basic CMS platforms',
-    ],
-  },
+  
 ]
 
 const educations = [
