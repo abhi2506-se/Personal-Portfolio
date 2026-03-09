@@ -63,7 +63,7 @@ export function Footer() {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com/in/abhishek-singh-494a86270/"
+                href="https://www.linkedin.com/in/abhishek-singh-b71166364/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-foreground transition-colors"
