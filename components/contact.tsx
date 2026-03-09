@@ -53,7 +53,7 @@ export function Contact() {
       icon: Linkedin,
       label: 'LinkedIn',
       value: 'Abhishek Singh',
-      href: 'https://linkedin.com/in/abhishek-singh-494a86270/',
+      href: 'https://www.linkedin.com/in/abhishek-singh-b71166364/',
     },
     {
       icon: Instagram,
